@@ -1,29 +1,68 @@
 Computers
 
+Slide 1:
+What is a computer?
 History
-- The word "computer" was first used in 1613, back then it was used to describe a person that did calculations and computations. The definition stayed the same until the end of the 19th century = 1800 - mid 20th century, then it became more similar to what we know today, machine that carries out computations.
+- The word "computer" was first used in 1613, back then it was used to describe a person that did calculations and computations.
 
-- There has been many different types of computers and due to the change in definition and the meaning of computer its hard to specify what was actually the first computer. But in early 19th century (again 1800) Charles Baggage, has been called the father of Computers, came up with the Difference Engine and then in 1933 he came up with a more general solution the Analytical Engine. The Analytical Engine used punch cards as input and could print the result or punch it onto new cards that could be used in later calculations. These computers was used to co hardcore calculations and computations, aka crunching numbers!
-A cool fun fact is that Baggage had help form Augusta Ada Byron who was a mathematician and is by some referred to as the worlds first computer programer.
-Also the work of Baggage and Byron was not appreciated and disappeared after Baggage death in 1871 but luckily it got rediscovered in his notebooks in 1930 an they got the appreciation they deserved, but by then everything had already been reinvented by someone else.
+Then as most inventions people started to look at how to build something that would reduce the manual work, a machine that could do the calculations for us, this was invented in the 20th century and then the definition of a computer became more similar to what we know today, machine that carries out computations.
 
-Lets skip ahead a bit to under stand the computer we have today
-- Modern computers is, very simply put, a machine that can take input, process it and provide an output. Earlier computers were used for the purpose to compute or calculate while the modern once can process the data it is given and it is programmable, we can program how to process the data
+The first computers invented where made out of wood and metal with mechanical levers and gears. And in 20th century we started using electrical components in the computer.
 
-How do they work
-- A computer is an electronic machine that processes information — in other words, an information processor: it takes in raw information (or data) at one end - this is the input, stores it until it's ready to work on it - this is memory, it process it for a bit - this id processing, then spits out the results at the other end - this is the output.
-An example,
+In early 19th century (again 1800) Charles Baggage, that is called the father of Computers, came up with the Difference Engine and then in 1833 he came up with a more general solution the Analytical Engine. The Analytical Engine used punch cards as input and could print the result or punch it onto new cards that could be used in later calculations.
+A cool fun fact is that Baggage had help form Ada Lovelace who was a mathematician and is by some referred to as the worlds first computer programmer, she wrote a the first algorithm that was intended to be processed by the Analytical Engine.
+But the work of Baggage and Lovelace was not appreciated and disappeared after Baggage death in 1871 but luckily it got rediscovered in his notebooks in 1930 and they got the appreciation they deserved, but by then everything had already been reinvented by someone else.
+
+The early computers were really large and slow, a computer as large as a room could take an hour to calculate a basic math problem. They were invented to do hardcore calculations and computations, aka crunching numbers, which was really cool and impressive back then.
+
+Today the computer can do so much more! We use them to control robots, cool example of that is the robot used at Isabellas parents farm not sure what its called in english but a robot that milks the cows! So the cow will when ever its ready to e milked walk up to the robot and the robot will do everything for you, we use computers to play games, send messages and talk to each other, most industries uses it in production, I am a big fan of the driving car which is also computers and a lot more cool stuff! Do you have any cool examples of where we use computers?
+
+These computers are a lot smaller, but they have 4 things in common with the earlier computers - takes input - stores data - process it - returns output. This is what makes a computer a computer!
+
+- Slide 2
+Input - Input is what you do that makes the computer do things! This can be done by using the keyboard, the mouse, microphone, game controller, touch screen, camera all of these and much more is different ways to give the computer input. An simple example, on the phone set the alarm you are now using a touch screen to give the computer the input it needs set an alarm for you. And if you remember the older phones, before touch you often used arrows and enter to navigate on the phone and give input.
+
+Storage - All of these inputs are then stored in memory.
+Processing - Everything that is stored in the memory is then processed by the processor who manipulates it or changes it using an algorithm (a series of commands). It sends the processed info back to storage and this continues processing until the info is ready to be output.
+
+Output - Output can be screens on your laptop, smartphone, it can be used in games to know what is suppose to happen next, it can be sent to a robot to control what the robot should do next. Another example is when computers connect over the internet, then one computers output will be the input for another computer
+
+- Slide 3
+Show videos
+
+-Slide 4
+- Hardware
+ When you look at a computer, or inside a computer you will see the circuits, chips, wires, speakers and much more - this is the hardware on the computer!
 
 - Software
- A computer program is a sequence of instructions the computer can execute on its own.
- Today, computers work on a much wider variety of problems—but they are all still, essentially, calculations. Everything a computer does, from helping you to edit a photograph you've taken with a digital camera to displaying a web page, involves manipulating numbers in one way or another.
+And what you don't see is the software! All off the computer programs, which is a sequence of instructions the computer can execute on its own is software, or all the code running on the machine is software. All the games, apps, websites!
 
- An example, say you open a picture in a what ever program you open pictures in - but I guess everyone has heard about paint - so I open a picture in paint then I want to rotate the rotate the image 90 degrees. In this scenario the picture would be the input, then the picture would be stored on the memory by the program while it waits for instructions, rotating the image is the process and as most know an image contains of pixels, the computer stores each pixel as a number so when you want to rotate the picture the computer calculates the new values for each pixel.
+Today, computers work on a much wider variety of problems—but they are all still, essentially, do calculations. Everything a computer does, from helping you to edit a photograph you've taken with a digital camera to displaying a web page, involves manipulating numbers in one way or another.
 
- What makes a computer different from a calculator is that it can work all by itself. You just give it your instructions (called a program) and off it goes, performing a long and complex series of operations all by itself. Back in the 1970s and 1980s, if you wanted a home computer to do almost anything at all, you had to write your own little program to do it. For example, before you could write a letter on a computer, you had to write a program that would read the letters you typed on the keyboard, store them in the memory, and display them on the screen. Writing the program usually took more time than doing whatever it was that you had originally wanted to do (writing the letter). Pretty soon, people started selling programs like word processors to save you the need to write programs yourself.
+An example, say you open a picture in a what ever program you open pictures in - but I guess everyone has heard about paint - so I open a picture in paint then I want to rotate the rotate the image 90 degrees. In this scenario the picture would be the input, then the picture would be stored on the memory by the program while it waits for instructions, rotating the image is the process and as most know an image contains of pixels, the computer stores each pixel as a number so when you want to rotate the picture the computer calculates the new values for each pixel.
 
- These programs are what we call software, they are not fixed since we can change it with programing
-- Hardware
- On the other hand, a computer's hardware—the bits and pieces from which it is made and this is is pretty much fixed when you buy it off the shelf. The hardware is what makes your computer powerful; the ability to run different software is what makes it flexible.
+How does the Hardware and software work together?
+Hardware has a Central Processing Unit, CPU, this is the master chip that controls all other parts of the computer. The CPU is run by binary codes, but no one today writes code in binary, we use for example Python, high level language, that is then compiled to binary code, machine code, that the CPU understands.
+So the software tells the computer what to do, and the computer can run multiple software programs at once - you can use the browser, spotify, text editor and slack at the same time. How is this possible and how do we get the programs in the first place?
+The solution is the Operating System, an operating system is the master program that manage how all the software gets to use the computers hardware. In other words the Operating System is a program that controls all the software on a computer, it allows you to install new programs by loading them into your computers memory and it controls and decides when a program is run by the CPU, it controls what program can access the input and output devices. So the operating system is what is in control and is the reason you can run multiple program at once.
 
-- Operating Systems
+
+- Programming
+Programming is basically problem solving, we write code to solve different problems then we call it programs, or applications.
+
+When we talk about code we talk about different levels of languages, we have the low-lever language, assembly language or machine language, the machine code can be understood by the CPU and does there for not require to be compiled before its run in the CPU. Any assembly language is very close to machine code and it will get converted to binary the assembler. Low-level is appropriate when developing an operating system for example because its close to machine code it is a lot faster to process. But it is also more complex and harder to understand.
+
+High-level, which we will use, is easier to understand and user-friendly, but it requires a lot more of compilations before it is converted to machine code and it reaches the CPU, thats also why its slower.
+
+What happens when we run out high-level code?
+We write for example print("HelloWorld!") in python, there are two ways to run it. We can do it directly in an interpreter or we wan run add it to a .py file and run it with python3. If we use interpreter the high-level code (print...) is translated line by line but if we run it in a file then the whole file is compiled = translated to machine code which then can be understood by the CPU, processor.
+
+When talking about programming there are different paradigms which is different types or concepts of programming. A programming language can support one or multiple paradigms, Python that we are going to use supports multiple! I will go over the most common once, object oriented or functional programming.
+
+Object oriented, maybe a given, is based on the concept of objects. These objects contain data, often called attributes that are used to describe the state of the object and it uses methods to set or describe the behavior of the object.
+Example ...
+
+Functional programming is programming/coding with mathematical functions and avoids changing-state and mutable data.
+In functional code, the output value of a function depends only on the arguments that are passed to the function, so calling a function f twice with the same value for an argument x produces the same result f(x) each time; this is in contrast to procedures depending on a local or global state.
+
+Python supports both object oriented and functional!
